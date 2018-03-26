@@ -1,0 +1,13 @@
+
+
+#countries {
+    fill: rgb(88, 189, 220);
+    stroke: #fff;
+    stroke-width: 2 px;
+    opacity: 0.85;
+  }
+  
+  #countries .active {
+    /*fill: lightblue;*/
+    fill: rgb(117, 107, 177);
+  }
